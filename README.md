@@ -2,7 +2,7 @@
 
 🚀 A comprehensive repository of SQL concepts and practical examples covering queries, joins, subqueries, CTEs, window functions, indexing, stored procedures, transactions, performance tuning, database design, and interview-focused scenarios.
 
-<hr/>
+
 # 👨‍💻 Author
 
 ## Ajay Gangwar
