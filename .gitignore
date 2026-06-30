@@ -1,0 +1,31 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Visual Studio temporary files, build results, and
+# user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code settings (local workspace settings)
+.vscode/
+
+# NuGet packages
+*.nupkg
+.nuget/packages/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
